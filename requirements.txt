@@ -1,0 +1,20 @@
+# === Core Google APIs ===
+google-api-python-client==2.149.0
+google-auth==2.34.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# === HTML to Text Conversion ===
+html2text==2020.1.16
+
+# === HTTP Requests (for calling Ollama API) ===
+requests==2.32.3
+
+# === Parsing & Regex Utilities ===
+regex==2023.10.3
+
+# === Environment Variables ===
+python-dotenv==1.0.1
+
+# === Optional (only if you want to use pandas at any point) ===
+pandas==2.2.3
