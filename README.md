@@ -139,6 +139,6 @@ Can be scheduled every 6 hours using:
 
 **Harsh Karekar**  
 B.Tech – Electronics & Communication Engineering  
-Aspiring Data Scientist / AI/ML Engineer  
-
-GitHub: https://github.com/HarshK0103
+Aspiring Data Scientist / AI/ML Engineer
+ 
+📫 [LinkedIn](https://www.linkedin.com/in/harsh-karekar-01h6910a04/) | 💻 [GitHub](https://github.com/HarshK0103)
